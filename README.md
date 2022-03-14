@@ -1,2 +1,2 @@
-# -Анализ базы данных резюме c Head Hunter
-homework
+# Анализ базы данных резюме c Head Hunter
+
